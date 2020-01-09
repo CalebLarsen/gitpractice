@@ -1,6 +1,3 @@
 One
 two
-three
-4
-fiiiiive
-sicks
+go
